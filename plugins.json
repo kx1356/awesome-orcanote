@@ -748,10 +748,10 @@
     "name": "Pizhu Toolbox",
     "description": "All-in-one toolbox plugin for Orca Note: annotations (wavy underline + numbered badges + hover preview + edit/delete cards + colors + cross-block + search/keyboard navigation + one-click top-bar popup + generated summary page), Fluent 2 editor tab bar (click to switch, drag to reorder/split, vertical mode, pinned tabs), and trash bin (deleted pages auto-saved, restorable or permanently purged, search + batch actions). All features toggleable in settings.",
     "category": "Productivity",
-    "version": "3.6.0",
-    "updated": "2026-09-11T09:26:57Z",
+    "version": "3.7.0",
+    "updated": "2026-09-12T00:38:49Z",
     "home": "https://github.com/kx1356/orca-plugin-pizhu",
-    "zip": "https://github.com/kx1356/orca-plugin-pizhu/releases/download/v3.6.0/orca-pizhu-v3.6.0.zip",
+    "zip": "https://github.com/kx1356/orca-plugin-pizhu/releases/download/v3.7.0/orca-pizhu-v3.7.0.zip",
     "translations": {
       "zh": {
         "name": "批注工具箱",
